@@ -13,10 +13,6 @@ permalink: /about.html
 
 ## About the Collection
 
-** Marco and Micki Making edits **
-
-The Pro-Life History Project was created as an “alternative timeline” from research that works alongside a history of reproductive justice but focuses on the pro-life movement. This website was made for scholars of reproductive justice, to explore the various tactics of people in the pro-life movement in the United States. Explore this virtual archive through people, tactics, dates, and places specifically pertinent to the Pro-Life Movement
-
 This site is generated using [`collectionbuilder-gh`](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 - a CSV of collection metadata
