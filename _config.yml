@@ -8,7 +8,7 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://marcosvdotcom.github.io
+url: http://marcosvdotcom.github.io
 # baseurl is your github repository's name prefixed with a /
 baseurl: /history-of-prolife
 # location of code, the full url to your github repository
